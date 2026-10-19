@@ -41,4 +41,18 @@ python kmeans_clustering.py
 ### Expected Results
 The generated dataset is divided into four clusters, with the cluster centers marked in red. The coffee image is segmented into four color groups.
 
+ ### Results
+
+#### 1. Generated Data — Before K-Means
+![Generated Data Before K-Means](kmeans_data_before.png)
+
+#### 2. Generated Data — After K-Means
+![Generated Data After K-Means](kmeans_data_after.png)
+
+#### 3. Coffee Image — Before K-Means
+![Coffee Image Before K-Means](kmeans_image_before.png)
+
+#### 4. Coffee Image — After K-Means
+![Coffee Image After K-Means](kmeans_image_after.png)
+
 
