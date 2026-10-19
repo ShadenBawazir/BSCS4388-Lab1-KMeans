@@ -38,9 +38,6 @@ pip install numpy matplotlib scikit-learn scikit-image
 python kmeans_clustering.py
 ```
 
-### Expected Results
-The generated dataset is divided into four clusters, with the cluster centers marked in red. The coffee image is segmented into four color groups.
-
  ### Results
 
 #### 1. Generated Data — Before K-Means
